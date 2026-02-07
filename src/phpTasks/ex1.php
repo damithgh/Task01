@@ -3,6 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+<title>Exercise 1: Getting Started with PHP - Damith</title>
     
 <style>
         table, th, td {
