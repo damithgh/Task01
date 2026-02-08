@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <title>Exercise 1: Getting Started with PHP - Damith</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    
     <style>
         table, th, td {
             border: 1px solid black;
@@ -16,10 +19,8 @@
 </head>
 <body>
    <nav>
-        <nav>
         <a href="index.php">Home</a>
         <a href="ex1.php">Exercise 1</a>
-        <a href="aboutus.php">About Us</a>
+        <a href="ex3.php">Exercise 3</a> <a href="aboutus.php">About Us</a>
         <a href="contactus.php">Contact Us</a>
-   </nav>
    </nav>
