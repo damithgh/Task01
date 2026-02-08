@@ -20,7 +20,10 @@
 <body>
    <nav>
         <a href="index.php">Home</a>
-        <a href="ex1.php">Exercise 1</a>
-        <a href="ex3.php">Exercise 3</a> <a href="aboutus.php">About Us</a>
+        <a href="aboutus.php">About Us</a>
         <a href="contactus.php">Contact Us</a>
+        <a href="ex1.php">Exercise 1</a>
+        <a href="ex2.php">Exercise 2</a>
+        <a href="ex3.php">Exercise 3</a> 
+        
    </nav>
