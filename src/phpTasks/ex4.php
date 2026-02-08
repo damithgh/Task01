@@ -50,7 +50,7 @@ include 'header.php';
             <div class="mb-3">
                 <input type="number" name="num_table" class="form-control" placeholder="Enter a number" required>
             </div>
-            <button type="submit" name="gen_table" class="btn btn-secondary">Generate Table</button>
+            <button type="submit" name="gen_table" class="btn btn-success">Generate Table</button>
         </form>
         <?php
         if (isset($_POST['gen_table'])) {
