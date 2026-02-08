@@ -11,12 +11,13 @@
             padding: 8px;
         }
         nav { background: #f4f4f4; padding: 10px; margin-bottom:20px;}
-        /* මෙතන 15px; ලෙස නිවැරදි කර ඇත */
+        
         nav a { margin-right: 15px; text-decoration:none; color: #333; font-weight:bold;}
     </style>
 </head>
 <body>
    <nav>
         <a href="index.php">Home</a>
-        <a href="ex1.php">Exercise 1</a>
+        <a href="ex1.php">aboutUs</a>
+        <a href="ex1.php">contactUs</a>
    </nav>

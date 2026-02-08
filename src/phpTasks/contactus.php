@@ -1,10 +1,10 @@
-<?php
-include'header.php';
-?>
-<! your main content goes here -->
-    <main>
-        <h2>Contact Us</h2>
-        <p>this is sample paragraph for Contact Us page.</p>
-        <p>this is sample paragraph for Contact Us page.</p>
-        </main>
+<?php include 'header.php'; ?>
+
+<h2>Contact Us</h2>
+<p>
+    Name: Damith<br>
+    University: HAMK University of Applied Sciences<br>
+    Email: amk1012409@student.hamk.fi
+</p>
+
 <?php include 'footer.php'; ?>
