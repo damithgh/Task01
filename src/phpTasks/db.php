@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$username = "amk1012409";
+$username = "wp_amk1012409";
 $password = "JfoE7lkm";
 $dbname = "wp_amk1012409";
 
