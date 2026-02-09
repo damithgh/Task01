@@ -27,5 +27,6 @@
         <a href="ex3.php">Exercise 3</a> 
         <a href="ex4.php">Exercise 4</a>
         <a href="create.php">Create Data</a>
+        <a href="read.php">Read Data</a>
         
    </nav>
