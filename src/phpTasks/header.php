@@ -13,8 +13,8 @@
             border-collapse: collapse;
             padding: 8px;
         }
-        nav { background: #f4f4f4; padding: 10px; margin-bottom:20px;}
-        nav a { margin-right: 15px; text-decoration:none; color: #333; font-weight:bold;}
+        nav { background: #810951; padding: 10px; margin-bottom:20px;}
+        nav a { margin-right: 15px; text-decoration:none; color: #ede9e9; font-weight:bold;}
     </style>
 </head>
 <body>
@@ -26,7 +26,7 @@
         <a href="ex2.php">Exercise 2</a>
         <a href="ex3.php">Exercise 3</a> 
         <a href="ex4.php">Exercise 4</a>
-        <a href="create.php">Create Data</a>
+        <a href="process.php">Create Data</a>
         <a href="read.php">Read Data</a>
         
    </nav>
