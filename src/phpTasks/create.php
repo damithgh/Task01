@@ -41,8 +41,8 @@ if (isset($_POST['submit'])) {
     $groupid = $_POST['groupid'];
 
     //this is  (SQL Query)
-    $sql = "INSERT INTO studentsinfo (first_name, last_name, city, groupId) 
-            VALUES ('$fname', '$lname', '$city', '$groupid')";
+    $sql = "INSERT INTO studentsInfo (first_name, last_name, city, group_id) 
+        VALUES ('$fname', '$lname', '$city', '$groupid')";
 
     if ($conn->query($sql) === TRUE) {
         echo "<div class='alert alert-success mt-3'>New record added successfully!</div>";
